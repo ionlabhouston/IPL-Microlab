@@ -1,11 +1,15 @@
 
+The Components Library is a standard inventory of parts. It is designed to facilitate the quick construction of a range of projects. It also provides a component inventory for classes.  It is subdivided into Electrical, Nuts & Bolts, Mechanical, and Hardware.  
+
+Note: Starred items have been donated and will not be re-stocked.
+
 ## E - Electrical
 ***
 
 ### E100 - Single Board Computers
 
 - [E110  -  Arduino Nano V3.0](E - Electrical/E110.html)
-- [E111  -  Arduino Uno](E - Electrical/E111.html)
+- [E111  -  Arduino Uno**](E - Electrical/E111.html)
 - [E112  -  Arduino Mega](E - Electrical/E112.html)
 - [E113  -  Adafruit Metro M4](E - Electrical/E113.html)
 - [E114  -  Adafruit Grand Central M4](E - Electrical/E114.html)
@@ -14,8 +18,8 @@
 - [E121  -  Feather HUZZAH with ESP8266](E - Electrical/E121.html)
 - [E122  -  Feather ESP32-S3](E - Electrical/E122.html)
 - [E130  -  TinyS3 ESP32-S3](E - Electrical/E130.html)
-- [E151  -  Raspberry PI Zero W](E - Electrical/E151.html)
-- [E152  -  Raspberry Pi 3B](E - Electrical/E152.html)
+- [E151  -  Raspberry PI 2 Zero W](E - Electrical/E151.html)
+- [E152  -  Raspberry Pi 3B*](E - Electrical/E152.html)
 - [E153  -  Raspberry Pi 4B](E - Electrical/E153.html)
 - [E190  -  Miscellaneous](E - Electrical/E190.html)
 
