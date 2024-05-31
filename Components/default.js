@@ -7,7 +7,7 @@ async function update_files() {
   var files = await octokit.rest.repos.getContent({
     owner: 'ionlabhouston',
     repo: 'IPL-Microlab',
-    path: 'Components/Elec'
+    path: 'Components/E - Electrical'
   });
   
   var files2 = files.data.filter(function (el) {
