@@ -5,7 +5,7 @@ const octokit = new Octokit()
 
 async function update_files() {
   var files = await octokit.rest.repos.getContent({
-    owner: 'lciscon',
+    owner: 'ionlabhouston',
     repo: 'IPL-Microlab',
     path: 'Components/Elec'
   });
