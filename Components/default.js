@@ -1,6 +1,6 @@
 // import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 //import { Octokit, App } from "https://cdn.skypack.dev/octokit";
-import {Orkit, App} from "@octokit/auth-app";
+import {Orkit, App} from "octokit";
 
 const octokit = new Octokit()
 
